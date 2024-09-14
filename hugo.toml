@@ -1,0 +1,4 @@
+title = 'Coffeyhaus Design'
+baseURL = 'https://coffeyhausdesign.com/'
+languageCode = 'en-us'
+theme = 'vex'
